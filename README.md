@@ -1,7 +1,10 @@
+Posiciones abiertas en este momento:
 
-# Programador PHP Senior - 100% Remoto
+---------
 
-## Qué es blarlo
+## Programador PHP Senior - 100% Remoto
+
+### Qué es blarlo
 
 Blarlo (https://www.blarlo.com) es una plataforma online que conecta traductores profesionales de todo el mundo con clientes que necesiten traducciones. Permite reducir drásticamente los tiempos necesarios para realizar traducciones pasando de días a minutos/horas con la máxima calidad, unificando y reduciendo tarifas. Todos los traductores son traductores profesionales, con amplia experiencia y traducen exclusivamente a sus idiomas nativos.
 
@@ -16,13 +19,13 @@ Si las necesidades de traducción de la empresa son recurrentes, nuestra plataf
 
 Blarlo optimiza los procesos de traducción mediante TOP (_Translation Optimization Platform_) . 
 
-##  Resumido
+###  Resumido
 
 Blarlo pone en contacto a empresas que quieren traducir prácticamente cualquier texto (documentos, tiendas online, páginas de soporte, centros de ayuda, aplicaciones… textos de todo tipo) con una red de más de 4500 traductores de todo el mundo, soportando actualmente 415 pares de idiomas.
 
 Aplicamos tecnología al proceso para conseguir un proceso de traducción más rápido y más económico para nuestros clientes. Además, automatizamos el proceso de traducción y publicación de traducciones en un número creciente de plataformas para que el cliente no tenga que hacer nada. Él encarga una traducción, o conecta su tienda online, y en minutos recibe el resultado en los pares de idiomas seleccionados.
 
-##  Qué harás
+###  Qué harás
 
 Ayudarás a construir nuestra plataforma para que miles de empresas puedan encargar y gestionar sus traducciones de manera rápida y automatizada. Además, la plataforma también dará soporte a los procesos de traducción de nuestros miles de traductores repartidos por todo el mundo. 
 
@@ -32,7 +35,7 @@ En todo este camino hay muchos componentes técnicos que diseñar y retos comple
 
 Estamos en un punto muy bonito a nivel técnico porque tenemos el reto planteado encima de la mesa y sabemos lo que queremos conseguir. Conocemos el mercado después de trabajar con multitud de clientes, está todo por hacer :-)
 
-## Qué necesitamos
+### Qué necesitamos
 - Un buen programador PHP, con conocimientos sólidos de SQL.
 - Aunque el trabajo es mayormente backend, también es necesario conocer HTML, CSS (o scss) y un poquito de Javascript pues te tocará montar alguna pantalla.
 - Necesitamos una persona con gusto por las cosas bien hechas, que entregue un trabajo con calidad, testado y realizado cuidando los detalles para que nuestros usuarios perciban una experiencia increíble. Utilizamos Codeception para pruebas funcionales (con Selenium), test funcionales y de API.
@@ -58,7 +61,7 @@ Estamos en un punto muy bonito a nivel técnico porque tenemos el reto planteado
 - Seguramente habrás desarrollado ya un conector entre blarlo y alguna aplicación externa, el primero de muchos.
 
 
-## Dónde
+### Dónde
 
 En tu casa o donde tú quieras, *100% remoto*. 
 
@@ -66,19 +69,19 @@ Aún así, tenemos oficina en Madrid en la calle o’Donnell, al lado del Parque
 
 Si eres de Madrid y estás acostumbrado a ir a una oficina a trabajar, no hay problema, podrás ir siempre que quieras, incluso todos los días si eso es lo que mejor se adapta a ti.
 
-## Cuando
+### Cuando
 Nuestro horario es:
 - 9-18:30h de lunes a jueves
 - 8-15h los viernes. 
 
 Evidentemente, al ser una posición en remoto, podrás distribuir la jornada de acuerdo a tus necesidades siempre y cuando asistas a la reunión de stand-up todas las mañanas a las 9:15.
 
-## Qué ofrecemos
+### Qué ofrecemos
 - Salario de entre *30.000 y 35.000€* brutos anuales.
 - *22días* laborables de vacaciones al año.
 - Escoger entre los días festivos de tu localidad o los de Madrid, tú decides.
 
-## Quienes serán tus compañeros
+### Quienes serán tus compañeros
 De momento el equipo es pequeño, estamos sentando las bases para el futuro, tus compañeros del área de tecnología serán:
 
 - _Cara_ (Jorge Carabias): Salmantino que se ha movido por media España, aterrizó en Madrid para cofundar blarlo. Desde hace 15 años lleva creando productos digitales, los 10 últimos enfocado en producto, principalmente en startups. Dicen que no se despega del portátil ni para dormir pero, cuando lo hace, le verás corriendo por la Casa de Campo o escapándose a las playas malagueñas. https://www.linkedin.com/in/jorgecarabias/
@@ -86,7 +89,7 @@ De momento el equipo es pequeño, estamos sentando las bases para el futuro, tus
 - _Loren_ (David Lorenzo): Vallisoletano de nacimiento, andaluz de adopción. Loren vive y construye blarlo desde una remota región llamada La Alpujarra, en las faldas de Sierra Nevada, Granada. Lleva 14 años construyendo productos digitales, liderando equipos técnicos y trabajando en startups. Cuando no está desarrollando algo puedes encontrarlo corriendo por las playas de Motril o por el campo con sus tres perras: Lola, Pepa y Blanca. https://www.linkedin.com/in/davidlg/
 
 
-## ¿Cómo aplico?
+### ¿Cómo aplico?
 Simple. Escríbeme un email a loren@blarlo.com y cuéntame un poco tu historia y todo lo que creas que es interesante sobre ti. Plantéame también si tienes alguna duda.
 
 A partir de ahí, me pondré en contacto contigo para ver cuándo te vendría bien realizar una pequeña prueba técnica que no te llevará más de 1 ó 2 horas.
