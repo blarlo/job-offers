@@ -87,7 +87,9 @@ De momento el equipo es pequeño, estamos sentando las bases para el futuro, tus
 
 - _Cara_ (Jorge Carabias): Salmantino que se ha movido por media España, aterrizó en Madrid para cofundar blarlo. Desde hace 15 años lleva creando productos digitales, los 10 últimos enfocado en producto, principalmente en startups. Dicen que no se despega del portátil ni para dormir pero, cuando lo hace, le verás corriendo por la Casa de Campo o escapándose a las playas malagueñas. https://www.linkedin.com/in/jorgecarabias/
 
-- _Loren_ (David Lorenzo): Vallisoletano de nacimiento, andaluz de adopción. Loren vive y construye blarlo desde una remota región llamada La Alpujarra, en las faldas de Sierra Nevada, Granada. Lleva 14 años construyendo productos digitales, liderando equipos técnicos y trabajando en startups. Cuando no está desarrollando algo puedes encontrarlo corriendo por las playas de Motril o por el campo con sus tres perras: Lola, Pepa y Blanca. https://www.linkedin.com/in/davidlg/
+- _Loren_ (David Lorenzo): Vallisoletano de nacimiento, andaluz de adopción. Loren vive y construye blarlo desde una remota región llamada La Alpujarra, en las faldas de Sierra Nevada, Granada. Lleva 14 años construyendo productos digitales, liderando equipos técnicos y trabajando en startups. Cuando no está desarrollando algo puedes encontrarlo corriendo por las playas de Motril o por el campo con sus tres perras: Lola, Pepa y Blanca. https://www.linkedin.com/in/davidlg/ 
+
+_Pabel_ (Pablo Garcimartín): Madrileño con raíces Andaluzas y Navarras. Físico de estudios, fue atrapado por las tripas del código y desde entonces lleva 4 años trabajando para diversos proyectos. Viene de vivir en la costa malagueña entre aguacates y los mangos. Mientras ve llover en Madrid, sueña con la próxima vez que podrá salir a jugar al baloncesto o bañarse en la playa. https://www.linkedin.com/in/pablo-garcimart%C3%ADn-ruiz-01ba627b/
 
 
 ### ¿Cómo aplico?
