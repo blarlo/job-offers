@@ -3,7 +3,7 @@ Posiciones abiertas en este momento:
 ---------
 
 ## Programador PHP Senior - 100% Remoto
-(Actualizado: 4 Junio 2020)
+(Actualizado: 12 Noviembre 2020)
 
 ### Qué es blarlo
 
