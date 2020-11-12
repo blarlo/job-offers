@@ -93,10 +93,11 @@ De momento el equipo es pequeño, estamos sentando las bases para el futuro, tus
 
 
 ### ¿Cómo aplico?
+
 Simple. Escríbeme un email a loren@blarlo.com y cuéntame un poco tu historia y todo lo que creas que es interesante sobre ti. Plantéame también si tienes alguna duda.
 
-A partir de ahí, me pondré en contacto contigo para ver cuándo te vendría bien realizar una pequeña prueba técnica que no te llevará más de 1 ó 2 horas.
+A partir de ahí, me pondré en contacto contigo para ver cuándo te vendría bien realizar una pequeña prueba técnica que no te llevará más de 1 ó 2 horas. También podemos cambiar la prueba por que nos envíes algún código o proyecto que tengas ya desarrollado.
 
-Después de eso tendremos una videollamada para hablar un rato y revisar la prueba.
+Después de eso tendremos una videollamada para hablar un rato y revisar la prueba/código.
 
-Si ambos nos gustamos, nos veremos en persona, idealmente en nuestra oficina de Madrid, para terminar de conocernos y para que tú conozcas todos los detalles que quieras del proyecto… incluso el código o lo que necesites para decidir que blarlo es un proyecto honesto y en el que te gustaría aportar tu conocimiento y también crecer como profesional.
+Si ambos nos gustamos, nos veremos otra vez para terminar de conocernos y para que tú conozcas todos los detalles que quieras del proyecto… incluso el código o lo que necesites para decidir que blarlo es un proyecto honesto y en el que te gustaría aportar tu conocimiento y también crecer como profesional.
