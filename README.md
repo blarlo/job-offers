@@ -73,7 +73,7 @@ Si eres de Madrid y estás acostumbrado a ir a una oficina a trabajar, no hay pr
 ### Cuando
 Nuestro horario es:
 - 9-18:30h de lunes a jueves
-- 8-15h los viernes. 
+- 9-15h los viernes. 
 
 Evidentemente, al ser una posición en remoto, podrás distribuir la jornada de acuerdo a tus necesidades siempre y cuando asistas a la reunión de stand-up todas las mañanas a las 9:15.
 
