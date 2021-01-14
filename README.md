@@ -58,7 +58,7 @@ Estamos en un punto muy bonito a nivel técnico porque tenemos el reto planteado
 - Habrás instalado, configurado y entendido los componentes actuales de la plataforma en tu equipo local y tendrás todo listo para desarrollar, no te preocupes, lo tenemos todo documentado y con Docker se monta en muy poquito tiempo.
 - Habrás interiorizado cómo está diseñada la aplicación, qué partes tiene y para qué sirve cada parte, y lo más importante, habremos hablado bastante sobre “lo qué no tiene” porque justamente eso es lo debemos desarrollar y es importante entender muy bien la visión global antes de escribir una línea de código.
 - Habrás hecho pair programming con otro miembro del equipo para desarrollar una feature de principio a fin: leer los requerimientos, diseñar, codificar, probar, escribir los test, etc.. e ir trabajando juntos y conociéndonos.
-- Habrás hecho tu primera tarea en solitario (empezaremos por algo sencillo), pasado tus primeros tests y código salido de tus manos y tu cabecita estará commiteado en la rama principal.
+- Habrás hecho tu primera tarea en solitario (empezaremos por algo sencillo), pasado tus primeros tests y código salido de tus manos estará commiteado en la rama principal y desplegado en producción.
 
 
 #### En 1 mes....
@@ -69,16 +69,16 @@ Estamos en un punto muy bonito a nivel técnico porque tenemos el reto planteado
 #### En 2 meses…
 - Estarás a full.
 - No sólo construirás “lo que es necesario”, sino que con el conocimiento adquirido estos meses serás capaz de cuestionarlo todo: manera de trabajar, procesos, prácticas, herramientas, etc.. y de plantearlo de manera constructiva para que cada vez trabajemos de manera más eficiente y cómoda.
-- Seguramente habrás desarrollado ya un conector entre blarlo y alguna aplicación externa, el primero de muchos.
+- Seguramente habrás desarrollado ya una feature "importante" completamente, o un conector entre blarlo y alguna aplicación externa, el primero de muchos.
 
 
 ### Dónde
 
-En tu casa o donde tú quieras, *100% remoto*. 
+En tu casa o donde tú quieras, **100% remoto**. 
 
-Aún así, tenemos oficina en Madrid en la calle o’Donnell, al lado del Parque del Retiro. Nos juntaremos una vez al trimestre para pasar 2 ó 3 días en la oficina trabajando todos juntos.
+Aún así, tenemos oficina en Madrid en la calle o’Donnell, al lado del Parque del Retiro. Nos juntaremos una vez al trimestre para pasar 2 ó 3 días en la oficina trabajando todos juntos. *(Sólamente si el COVID lo permite)*
 
-Si eres de Madrid y estás acostumbrado a ir a una oficina a trabajar, no hay problema, podrás ir siempre que quieras, incluso todos los días si eso es lo que mejor se adapta a ti.
+Si eres de Madrid y estás acostumbrado a ir a una oficina a trabajar, no hay problema, podrás ir siempre que quieras, incluso todos los días si eso es lo que mejor se adapta a ti. *(Sólamente si el COVID lo permite)*
 
 ### Cuando
 Nuestro horario es:
@@ -107,10 +107,10 @@ De momento el equipo es pequeño, estamos sentando las bases para el futuro, tus
 
 Simple. **Escríbeme un email a loren@blarlo.com** y cuéntame un poco tu historia y todo lo que creas que es interesante sobre ti. Plantéame también si tienes alguna duda.
 
-A partir de ahí, me pondré en contacto contigo para conocernos en una videollamada de 30 o 40 minutos.
+A partir de ahí, me pondré en contacto contigo para conocernos en una videollamada de 30 ó 40 minutos.
 
 Después haremos una pequeña prueba técnica que no te llevará más de 1 ó 2 horas, es resolver un enunciado muy muy simple. También podemos cambiar la prueba por que nos envíes algún código o proyecto que tengas ya desarrollado y creas que muestra _lo que sabes hacer_.
 
-Si después de esto ambos nos gustamos, nos veremos otra vez para terminar de conocernos y para que tú conozcas todos los detalles que quieras del proyecto… incluso el código fuente o lo que necesites para decidir que blarlo es un proyecto honesto y en el que te gustaría aportar tu conocimiento y también crecer como profesional.
+Si después de esto ambos nos gustamos, nos veremos otra vez para terminar de conocernos y sobre todo para que tú conozcas todos los detalles que quieras del proyecto… incluso el código fuente o lo que necesites para decidir que blarlo es un proyecto honesto y en el que te gustaría aportar tu conocimiento y también crecer como profesional.
 
 ¡Estamos deseando conocerte! 😃
