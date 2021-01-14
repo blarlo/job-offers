@@ -85,12 +85,13 @@ Nuestro horario es:
 - 9-18:30h de lunes a jueves (una hora para comer)
 - 9-15h los viernes. 
 
-Este es el horario "oficial". Evidentemente, al ser una posición en remoto, podrás distribuir la jornada de acuerdo a tus necesidades siempre y cuando asistas a la reunión de stand-up todas las mañanas a las 9:15.
+Este es el horario *"oficial"*. Evidentemente, al ser una posición en remoto, podrás distribuir la jornada de acuerdo a tus necesidades siempre y cuando asistas a la reunión de stand-up todas las mañanas a las 9:15.
 
 ### Qué ofrecemos
-- Salario de entre *30.000 y 35.000€* brutos anuales.
-- *22días* laborables de vacaciones al año.
+- Salario de entre **30.000 y 35.000€** brutos anuales.
+- **22días** laborables de vacaciones al año.
 - Escoger entre los días festivos de tu localidad o los de Madrid, tú decides.
+- Un proyecto apasionante, cargado de retos y problemas por resolver.
 
 ### Quienes serán tus compañeros
 De momento el equipo es pequeño, estamos sentando las bases para el futuro, tus compañeros del área de tecnología serán:
@@ -104,7 +105,7 @@ De momento el equipo es pequeño, estamos sentando las bases para el futuro, tus
 
 ### ¿Cómo aplico?
 
-Simple. *Escríbeme un email a loren@blarlo.com* y cuéntame un poco tu historia y todo lo que creas que es interesante sobre ti. Plantéame también si tienes alguna duda.
+Simple. **Escríbeme un email a loren@blarlo.com** y cuéntame un poco tu historia y todo lo que creas que es interesante sobre ti. Plantéame también si tienes alguna duda.
 
 A partir de ahí, me pondré en contacto contigo para conocernos en una videollamada de 30 o 40 minutos.
 
