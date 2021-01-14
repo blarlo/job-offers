@@ -44,6 +44,16 @@ Estamos en un punto muy bonito a nivel técnico porque tenemos el reto planteado
 - Tener experiencia trabajando con APIs de terceros.
 - Ser una persona independiente, resolutiva y muy comunicativa.
 
+##### Nuestro stack
+- PHP7, Symfony, beanstalkd, supervisord.
+- MySQL.
+- ELK: Elasticsearch, logstash & kibana.
+- Redis.
+- jQuery, Sass, Webpack.
+- Codeception, PHPUnit, Selenium.
+- Docker.
+- AWS.
+
 #### Qué esperamos de ti las 2 primeras semanas…
 - Habrás instalado, configurado y entendido los componentes actuales de la plataforma en tu equipo local y tendrás todo listo para desarrollar, no te preocupes, lo tenemos todo documentado y con Docker se monta en muy poquito tiempo.
 - Habrás interiorizado cómo está diseñada la aplicación, qué partes tiene y para qué sirve cada parte, y lo más importante, habremos hablado bastante sobre “lo qué no tiene” porque justamente eso es lo debemos desarrollar y es importante entender muy bien la visión global antes de escribir una línea de código.
@@ -72,10 +82,10 @@ Si eres de Madrid y estás acostumbrado a ir a una oficina a trabajar, no hay pr
 
 ### Cuando
 Nuestro horario es:
-- 9-18:30h de lunes a jueves
+- 9-18:30h de lunes a jueves (una hora para comer)
 - 9-15h los viernes. 
 
-Evidentemente, al ser una posición en remoto, podrás distribuir la jornada de acuerdo a tus necesidades siempre y cuando asistas a la reunión de stand-up todas las mañanas a las 9:15.
+Este es el horario "oficial". Evidentemente, al ser una posición en remoto, podrás distribuir la jornada de acuerdo a tus necesidades siempre y cuando asistas a la reunión de stand-up todas las mañanas a las 9:15.
 
 ### Qué ofrecemos
 - Salario de entre *30.000 y 35.000€* brutos anuales.
@@ -94,10 +104,12 @@ De momento el equipo es pequeño, estamos sentando las bases para el futuro, tus
 
 ### ¿Cómo aplico?
 
-Simple. Escríbeme un email a loren@blarlo.com y cuéntame un poco tu historia y todo lo que creas que es interesante sobre ti. Plantéame también si tienes alguna duda.
+Simple. *Escríbeme un email a loren@blarlo.com* y cuéntame un poco tu historia y todo lo que creas que es interesante sobre ti. Plantéame también si tienes alguna duda.
 
-A partir de ahí, me pondré en contacto contigo para ver cuándo te vendría bien realizar una pequeña prueba técnica que no te llevará más de 1 ó 2 horas. También podemos cambiar la prueba por que nos envíes algún código o proyecto que tengas ya desarrollado.
+A partir de ahí, me pondré en contacto contigo para conocernos en una videollamada de 30 o 40 minutos.
 
-Después de eso tendremos una videollamada para hablar un rato y revisar la prueba/código.
+Después haremos una pequeña prueba técnica que no te llevará más de 1 ó 2 horas, es resolver un enunciado muy muy simple. También podemos cambiar la prueba por que nos envíes algún código o proyecto que tengas ya desarrollado y creas que muestra _lo que sabes hacer_.
 
-Si ambos nos gustamos, nos veremos otra vez para terminar de conocernos y para que tú conozcas todos los detalles que quieras del proyecto… incluso el código o lo que necesites para decidir que blarlo es un proyecto honesto y en el que te gustaría aportar tu conocimiento y también crecer como profesional.
+Si después de esto ambos nos gustamos, nos veremos otra vez para terminar de conocernos y para que tú conozcas todos los detalles que quieras del proyecto… incluso el código fuente o lo que necesites para decidir que blarlo es un proyecto honesto y en el que te gustaría aportar tu conocimiento y también crecer como profesional.
+
+¡Estamos deseando conocerte! 😃
