@@ -78,7 +78,7 @@ Estamos en un punto muy bonito a nivel técnico porque tenemos el reto planteado
 
 En tu casa o donde tú quieras, **100% remoto**. 
 
-Aún así, tenemos oficina en Madrid en la calle o’Donnell, al lado del Parque del Retiro. Nos juntaremos una vez al trimestre para pasar 2 ó 3 días en la oficina trabajando todos juntos. *(Sólamente si el COVID lo permite)*
+Aún así, tenemos oficina en Madrid en la calle o’Donnell, al lado del Parque del Retiro. Nos juntaremos una vez al trimestre para pasar 2 ó 3 días en la oficina trabajando todos juntos. *(Solo si el COVID lo permite)*
 
 Si eres de Madrid y estás acostumbrado a ir a una oficina a trabajar, no hay problema, podrás ir siempre que quieras, incluso todos los días si eso es lo que mejor se adapta a ti. *(Cumpliendo la normativa COVID en todo momento)*
 
@@ -102,7 +102,7 @@ De momento el equipo es pequeño, estamos sentando las bases para el futuro. Tus
 
 - _Loren_ (David Lorenzo): Vallisoletano de nacimiento, andaluz de adopción. Loren vive y construye blarlo desde una remota región llamada La Alpujarra, en las faldas de Sierra Nevada, Granada. Lleva 14 años construyendo productos digitales, liderando equipos técnicos y trabajando en startups. Es fácil encontrarlo corriendo por las playas de Motril, viajando en furgoneta o paseando por el campo con sus perras Lola y Pepa. https://www.linkedin.com/in/davidlg/ 
 
-- Tomás Soler:  https://www.linkedin.com/in/tjsoler/
+- _Tommy_ (Tomás Soler): Ilicitano de culo inquieto. Tommy ha vivido en Madrid, Barcelona y Southampton. Ahora está de vuelta en Elche reagrupándose y pensando donde poner el culo próximamente. Lleva muchos años cacharreando pero en los últimos 10 ha ido de IT a FullStack a Backend. Cuando no está _picando teclas_ puede que esté cocinando alguna horrible salsa picante, o si el COVID lo permite _mosheando_ en algún concierto. https://www.linkedin.com/in/tjsoler/
 
 ### ¿Cómo aplico?
 
