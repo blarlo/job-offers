@@ -3,7 +3,7 @@ Posiciones abiertas en este momento:
 ---------
 
 ## Programador PHP Senior - 100% Remoto
-(Actualizado: 14 de Enero 2021)
+(Actualizado: 21 de Septiembre 2021)
 
 ### Qué es blarlo
 
@@ -19,6 +19,8 @@ Los pilares de nuestro negocio son:
 Si las necesidades de traducción de la empresa son recurrentes, nuestra plataforma optimiza los trabajos. Crea glosarios y memorias de traducción que hacen que frases y expresiones ya traducidas anteriormente en otros documentos se traduzcan de forma automática sin ningún coste para el cliente. Por supuesto siempre con revisión humana, ya que nadie habla como un robot.
 
 Blarlo optimiza los procesos de traducción mediante TOP (_Translation Optimization Platform_) . 
+
+Además, estamos desarrollado un segundo producto llamado Pluglin (https://www.pluglin.com) que permite a cualquier persona conectar su tienda online, aplicación de helpcenter, formularios, etc.. y en unos minutos y por un precio muy asequible obtener su contenido traducido a los idiomas que necesite y disponible en la plataforma de origen.
 
 ###  Resumido
 
@@ -78,14 +80,14 @@ En tu casa o donde tú quieras, **100% remoto**.
 
 Aún así, tenemos oficina en Madrid en la calle o’Donnell, al lado del Parque del Retiro. Nos juntaremos una vez al trimestre para pasar 2 ó 3 días en la oficina trabajando todos juntos. *(Sólamente si el COVID lo permite)*
 
-Si eres de Madrid y estás acostumbrado a ir a una oficina a trabajar, no hay problema, podrás ir siempre que quieras, incluso todos los días si eso es lo que mejor se adapta a ti. *(Sólamente si el COVID lo permite)*
+Si eres de Madrid y estás acostumbrado a ir a una oficina a trabajar, no hay problema, podrás ir siempre que quieras, incluso todos los días si eso es lo que mejor se adapta a ti. *(Cumpliendo la normativa COVID en todo momento)*
 
 ### Cuando
 Nuestro horario es:
 - 9-18:30h de lunes a jueves (una hora para comer)
 - 9-15h los viernes. 
 
-Este es el horario *"oficial"*. Evidentemente, al ser una posición en remoto, podrás distribuir la jornada de acuerdo a tus necesidades siempre y cuando asistas a la reunión de stand-up todas las mañanas a las 9:15.
+Este es el horario *"oficial"*. Evidentemente, al ser una posición en remoto, podrás distribuir la jornada de acuerdo a tus necesidades siempre y cuando asistas a la reunión de stand-up todas las mañanas a las 9:15h.
 
 ### Qué ofrecemos
 - Salario de entre **30.000 y 35.000€** brutos anuales.
@@ -94,22 +96,21 @@ Este es el horario *"oficial"*. Evidentemente, al ser una posición en remoto, p
 - Un proyecto apasionante, cargado de retos y problemas por resolver.
 
 ### Quienes serán tus compañeros
-De momento el equipo es pequeño, estamos sentando las bases para el futuro, tus compañeros del área de tecnología serán:
+De momento el equipo es pequeño, estamos sentando las bases para el futuro. Tus compañeros del área de tecnología serán:
 
 - _Cara_ (Jorge Carabias): Salmantino que se ha movido por media España, aterrizó en Madrid para cofundar blarlo. Desde hace 15 años lleva creando productos digitales, los 10 últimos enfocado en producto, principalmente en startups. Dicen que no se despega del portátil ni para dormir pero, cuando lo hace, le verás corriendo por la Casa de Campo o escapándose a las playas malagueñas. https://www.linkedin.com/in/jorgecarabias/
 
-- _Loren_ (David Lorenzo): Vallisoletano de nacimiento, andaluz de adopción. Loren vive y construye blarlo desde una remota región llamada La Alpujarra, en las faldas de Sierra Nevada, Granada. Lleva 14 años construyendo productos digitales, liderando equipos técnicos y trabajando en startups. Cuando no está desarrollando algo puedes encontrarlo corriendo por las playas de Motril o por el campo con sus tres perras: Lola, Pepa y Blanca. https://www.linkedin.com/in/davidlg/ 
+- _Loren_ (David Lorenzo): Vallisoletano de nacimiento, andaluz de adopción. Loren vive y construye blarlo desde una remota región llamada La Alpujarra, en las faldas de Sierra Nevada, Granada. Lleva 14 años construyendo productos digitales, liderando equipos técnicos y trabajando en startups. Es fácil encontrarlo corriendo por las playas de Motril, viajando en furgoneta o paseando por el campo con sus perras Lola y Pepa. https://www.linkedin.com/in/davidlg/ 
 
-- _Pabel_ (Pablo Garcimartín): Madrileño con raíces Andaluzas y Navarras. Físico de estudios, fue atrapado por las tripas del código y desde entonces lleva 4 años trabajando para diversos proyectos. Viene de vivir en la costa malagueña entre aguacates y los mangos. Mientras ve llover en Madrid, sueña con la próxima vez que podrá salir a jugar al baloncesto o bañarse en la playa. https://www.linkedin.com/in/pablo-garcimart%C3%ADn-ruiz-01ba627b/
-
+- Tomás Soler:  https://www.linkedin.com/in/tjsoler/
 
 ### ¿Cómo aplico?
 
-Simple. **Escríbeme un email a loren@blarlo.com** y cuéntame un poco tu historia y todo lo que creas que es interesante sobre ti. Plantéame también si tienes alguna duda.
+Simple. **Escríbeme un email a loren@blarlo.com** y cuéntame un poco tu historia y todo lo que creas que es interesante sobre ti. Plantéame también si tienes cualquier duda.
 
-A partir de ahí, me pondré en contacto contigo para conocernos en una videollamada de 30 ó 40 minutos.
+Si quieres, reserva en mi calendario el momento para la entrevista personal que mejor se adapte a tus necesitades. Aquí: https://calendly.com/blarlo-loren/entrevista-personal o sino yo te contactaré de vuelta a tu correo para agendarlo.
 
-Después haremos una pequeña prueba técnica que no te llevará más de 1 ó 2 horas, es resolver un enunciado muy muy simple. También podemos cambiar la prueba por que nos envíes algún código o proyecto que tengas ya desarrollado y creas que muestra _lo que sabes hacer_.
+Después de la entrevista personal te mandaré una pequeña prueba técnica para que la resuelvas cuando tu quieras y que no te llevará más de 1 ó 2 horas, es un enunciado muy muy simple con un problema común en nuestro negocio. También podemos cambiar la prueba por que nos envíes algún código o proyecto que tengas ya desarrollado y creas que es interesante, que está relacionado con el mundo SaaS y que muestra _lo que sabes hacer_.
 
 Si después de esto ambos nos gustamos, nos veremos otra vez para terminar de conocernos y sobre todo para que tú conozcas todos los detalles que quieras del proyecto… incluso el código fuente o lo que necesites para decidir que blarlo es un proyecto honesto y en el que te gustaría aportar tu conocimiento y también crecer como profesional.
 
