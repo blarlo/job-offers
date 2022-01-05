@@ -102,8 +102,6 @@ De momento el equipo es pequeño, estamos sentando las bases para el futuro. Tus
 
 - _Loren_ (David Lorenzo): Vallisoletano de nacimiento, andaluz de adopción. Loren vive y construye blarlo desde una remota región llamada La Alpujarra, en las faldas de Sierra Nevada, Granada. Lleva 14 años construyendo productos digitales, liderando equipos técnicos y trabajando en startups. Es fácil encontrarlo corriendo por las playas de Motril, viajando en furgoneta o paseando por el campo con sus perras Lola y Pepa. https://www.linkedin.com/in/davidlg/ 
 
-- _Tommy_ (Tomás Soler): Ilicitano de culo inquieto. Tommy ha vivido en Madrid, Barcelona y Southampton. Ahora está de vuelta en Elche reagrupándose y pensando donde poner el culo próximamente. Lleva muchos años cacharreando pero en los últimos 10 ha ido de IT a FullStack a Backend. Cuando no está _picando teclas_ puede que esté cocinando alguna horrible salsa picante, o si el COVID lo permite _mosheando_ en algún concierto. https://www.linkedin.com/in/tjsoler/
-
 ### ¿Cómo aplico?
 
 Simple. **Escríbeme un email a loren@blarlo.com** y cuéntame un poco tu historia y todo lo que creas que es interesante sobre ti. Plantéame también si tienes cualquier duda.
