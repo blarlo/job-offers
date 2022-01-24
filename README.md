@@ -2,8 +2,8 @@ Posiciones abiertas en este momento:
 
 ---------
 
-## Programador PHP Senior - 100% Remoto
-(Actualizado: 21 de Septiembre 2021)
+## Programador PHP Senior - Alicante
+(Actualizado: 24 de Enero 2022)
 
 ### Qué es blarlo
 
@@ -76,7 +76,7 @@ Estamos en un punto muy bonito a nivel técnico porque tenemos el reto planteado
 
 ### Dónde
 
-En tu casa o donde tú quieras, **100% remoto**. 
+En nuestras oficinas de Alicante.
 
 Aún así, tenemos oficina en Madrid en la calle o’Donnell, al lado del Parque del Retiro. Nos juntaremos una vez al trimestre para pasar 2 ó 3 días en la oficina trabajando todos juntos. *(Solo si el COVID lo permite)*
 
@@ -87,12 +87,9 @@ Nuestro horario es:
 - 9-18:30h de lunes a jueves (una hora para comer)
 - 9-15h los viernes. 
 
-Este es el horario *"oficial"*. Evidentemente, al ser una posición en remoto, podrás distribuir la jornada de acuerdo a tus necesidades siempre y cuando asistas a la reunión de stand-up todas las mañanas a las 9:15h.
-
 ### Qué ofrecemos
-- Salario de entre **30.000 y 35.000€** brutos anuales.
+- Salario de entre **28.000€ y 35.000€** brutos anuales.
 - **22días** laborables de vacaciones al año.
-- Escoger entre los días festivos de tu localidad o los de Madrid, tú decides.
 - Un proyecto apasionante, cargado de retos y problemas por resolver.
 
 ### Quienes serán tus compañeros
